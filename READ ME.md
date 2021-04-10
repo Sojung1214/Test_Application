@@ -7,5 +7,5 @@
 
 <a id="Ch01"></a>
 ## Ep.01~06 완성화면
-<img width="409" alt="스크린샷 2021-04-10 오후 6 19 21" src="https://user-images.githubusercontent.com/56288954/114265012-5710fd80-9a29-11eb-897b-e5c42daf5368.png">
+* <img width="409" alt="스크린샷 2021-04-10 오후 6 19 21" src="https://user-images.githubusercontent.com/56288954/114265012-5710fd80-9a29-11eb-897b-e5c42daf5368.png">
 
