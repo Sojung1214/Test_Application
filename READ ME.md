@@ -1,5 +1,5 @@
 # Android studio 앱 개발 연습
-* 강의: https://www.youtube.com/watch?v=jJxH3Nd1A1w&list=PLva6rQOdsvQXdSBN1r2mEt_tqES6NjKKj&index=3
+* 강의: [https://www.youtube.com/watch?v=jJxH3Nd1A1w&list=PLva6rQOdsvQXdSBN1r2mEt_tqES6NjKKj&index=3]
 ---
 ## 기간
 - 2020.04.10 Ep.01~06
