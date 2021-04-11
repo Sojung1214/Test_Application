@@ -12,4 +12,5 @@
 
 ## Ep.07 완성화면
 - 이메일, 비밀번호 입력하면 값이 넘어가서 표시되는 것을 볼 수 있음
-<img width="300" height="550" alt="스크린샷 2021-04-11 오후 3 48 49" src="https://user-images.githubusercontent.com/56288954/114295063-d233eb80-9add-11eb-82bd-0a74db151ce3.png">
+<img width="300" height="550" alt="스크린샷 2021-04-11 오후 3 48 49" src="https://user-images.githubusercontent.com/56288954/114295063-d233eb80-9add-11eb-82bd-0a74db151ce3.png"><img width="300" height="550" alt="스크린샷 2021-04-11 오후 3 49 08" src="https://user-images.githubusercontent.com/56288954/114295073-ea0b6f80-9add-11eb-8985-d83b668bdcd4.png">
+
